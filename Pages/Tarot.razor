@@ -1,0 +1,45 @@
+@page "/tarot"
+@using TarotBlazor.Data.Tarot
+
+<h1>Гадание на картах таро</h1>
+<br/>
+<p class="active">
+    <strong>
+        Карты Таро - старинная система гаданий, основанная на использовании колоды карт Таро,
+        каждая карта которой имеет свой особый философский и эзотерический смысл.
+        С помощью данного гадания, мы можем узнать влияние прошлого на текущую ситуацию или интересующий вопрос,
+        разобраться в своих проблемах или взаимоотношениях со своими партнерами или недоброжелателями,
+        понять как лучше поступить, чтобы ваш вопрос разрешился благоприятно, а также многое другое.
+    </strong>
+</p>
+
+<input type="number" @bind="_cardsCount" class="input-group-text"/>
+<br/>
+<button class="button-10" @onclick="() => _cards = GenerateCards()">Сгенерировать!</button>
+
+<div class="px-xl-5">
+    <div class="grid-container">
+        @if (_cards.Count != 0)
+        {
+            foreach (var card in _cards)
+            {
+                <div class="grid-item">
+                    <img src=@TarotCard.GetCardImagePath(card) width="200" height="300" alt=""/>
+                    <p style="text-align: center;">@card.ToString()</p>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+@code {
+    static uint _cardsCount;
+    static HashSet<TarotCard> _cards = new();
+    
+    static HashSet<TarotCard> GenerateCards()
+    {
+        if(_cardsCount <= uint.MaxValue / 8) 
+            return (TarotCardGenerator.GenerateCards(_cardsCount, TarotCardGenerator.MultipleGenOptions.RandomCards) as HashSet<TarotCard>)!;
+        return null;
+    }
+}

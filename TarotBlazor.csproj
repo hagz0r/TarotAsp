@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Media\BigCardsImg\BigChariot.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigDeath.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigDevil.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigEmperor.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigEmpress.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigFool.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigHangedMan.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigHermit.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigHierophant.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigJudgement.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigJustice.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigLovers.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigMagician.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigMoon.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigPriestess.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigStar.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigStrength.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigSun.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigTemperance.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigTower.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigWheelOfFortune.png" />
+    <None Include="wwwroot\Media\BigCardsImg\BigWorld.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Media\SmallCardsImg\Pentacles" />
+  </ItemGroup>
+
+</Project>

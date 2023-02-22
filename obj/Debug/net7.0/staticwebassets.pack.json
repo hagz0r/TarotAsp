@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/obj/Debug/net7.0/scopedcss/projectbundle/TarotBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets/TarotBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigChariot.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigChariot.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigDeath.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigDeath.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigDevil.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigDevil.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigEmperor.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigEmperor.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigEmpress.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigEmpress.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigFool.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigFool.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigHangedMan.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigHangedMan.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigHermit.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigHermit.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigHierophant.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigHierophant.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigJudgement.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigJudgement.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigJustice.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigJustice.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigLovers.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigLovers.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigMagician.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigMagician.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigMoon.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigMoon.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigPriestess.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigPriestess.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigStar.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigStar.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigStrength.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigStrength.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigSun.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigSun.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigTemperance.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigTemperance.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigTower.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigTower.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigWheelOfFortune.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigWheelOfFortune.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/BigCardsImg/BigWorld.png",
+      "PackagePath": "staticwebassets/Media/BigCardsImg/BigWorld.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Ace.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Ace.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Eight.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Eight.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Five.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Five.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Four.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Four.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/King.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/King.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Knight.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Knight.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Nine.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Nine.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Page.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Page.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Queen.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Queen.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Seven.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Seven.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Six.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Six.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Ten.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Ten.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Three.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Three.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Cups/Two.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Cups/Two.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Ace.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Ace.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Eight.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Eight.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Five.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Five.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Four.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Four.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/King.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/King.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Knight.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Knight.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Nine.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Nine.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Page.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Page.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Queen.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Queen.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Seven.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Seven.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Six.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Six.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Ten.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Ten.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Three.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Three.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Pentacles/Two.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Pentacles/Two.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Ace.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Ace.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Eight.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Eight.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Five.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Five.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Four.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Four.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/King.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/King.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Knight.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Knight.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Nine.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Nine.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Page.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Page.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Queen.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Queen.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Seven.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Seven.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Six.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Six.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Ten.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Ten.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Three.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Three.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Swords/Two.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Swords/Two.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Ace.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Ace.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Eight.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Eight.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Five.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Five.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Four.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Four.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/King.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/King.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Knight.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Knight.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Nine.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Nine.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Page.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Page.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Queen.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Queen.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Seven.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Seven.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Six.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Six.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Ten.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Ten.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Three.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Three.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/Media/SmallCardsImg/Wands/Two.png",
+      "PackagePath": "staticwebassets/Media/SmallCardsImg/Wands/Two.png"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/media/hagz0r/edfac6d5-fce9-4dec-9698-0c783e9f0e46/RiderProjects/TarotBlazor/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.TarotBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.TarotBlazor.props",
+      "PackagePath": "build\\TarotBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TarotBlazor.props",
+      "PackagePath": "buildMultiTargeting\\TarotBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TarotBlazor.props",
+      "PackagePath": "buildTransitive\\TarotBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
